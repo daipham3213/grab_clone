@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>88205953128-ufoobin5gi9vpnhsbdf5bj7nt3fm9dm3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.88205953128-ufoobin5gi9vpnhsbdf5bj7nt3fm9dm3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFrpOXwv7ZpPmm1V1Zjq0cIjVm3Oj6oNU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>88205953128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.daiplg.grabClone</string>
+	<key>PROJECT_ID</key>
+	<string>grab-clone-192e4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>grab-clone-192e4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:88205953128:ios:36f7f5a8a2ba3ea29413dd</string>
+</dict>
+</plist>

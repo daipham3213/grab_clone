@@ -1,0 +1,20 @@
+{
+  "@@locale": "vi",
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "home": "Trang chủ",
+  "activity": "Hoạt động",
+  "settings": "Cài đặt",
+  "messages": "Thông báo",
+  "account": "Tài khoản",
+  "payment": "Payment",
+  "searchHint": "Thức ăn, nước uống, địa điểm, ...",
+  "food": "Thức ăn",
+  "motorbike": "Xe máy",
+  "car": "Ô tô",
+  "delivery": "Giao hàng",
+  "shopping": "Mua sắm",
+  "more": "Xem thêm"
+}

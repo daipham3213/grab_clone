@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88205953128",
+    "project_id": "grab-clone-192e4",
+    "storage_bucket": "grab-clone-192e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88205953128:android:9e08cabb23fb1f139413dd",
+        "android_client_info": {
+          "package_name": "com.daiplg.grab_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88205953128-m46i7dkumico4eo4sk3cr7612gndjub6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPe2vZSbCigf6vHJTXn4xQiHibxaZh0gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88205953128-m46i7dkumico4eo4sk3cr7612gndjub6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

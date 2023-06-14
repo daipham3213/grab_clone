@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "home": "Home",
+  "activity": "Activity",
+  "settings": "Settings",
+  "messages": "Messages",
+  "account": "Account",
+  "payment": "Payment",
+  "searchHint": "Search for food, coffee, etc...",
+  "food": "Food",
+  "motorbike": "Motorbike",
+  "car": "Car",
+  "delivery": "Delivery",
+  "shopping": "Shopping",
+  "more": "More"
+}
